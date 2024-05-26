@@ -18,7 +18,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    fontSize: 24,
+    fontSize: 28,
+    fontWeight: 800,
   },
   bold:{
     fontWeight: 'bold',
